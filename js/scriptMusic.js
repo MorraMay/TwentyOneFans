@@ -51,19 +51,19 @@ trackIndex = 0;
 
 
 tracks = [
-  "/audio/Blurry/twenty one pilots - heavydirtysoul.mp3",
-  "/audio/Blurry/twenty one pilots - stressed out.mp3",
-  "/audio/Blurry/twenty one pilots - ride.mp3",
-  "/audio/Blurry/twenty one pilots - fairly local.mp3",
-  "/audio/Blurry/twenty one pilots - tear in my heart.mp3",
-  "/audio/Blurry/twenty one pilots - lane boy.mp3",
-  "/audio/Blurry/twenty one pilots - the judge.mp3",
-  "/audio/Blurry/twenty one pilots - doubt.mp3",
-  "/audio/Blurry/twenty one pilots - polarize.mp3",
-  "/audio/Blurry/twenty one pilots - we don't believe what's on tv.mp3",
-  "/audio/Blurry/twenty one pilots - message man.mp3",
-  "/audio/Blurry/twenty one pilots - not today.mp3",
-  "/audio/Blurry/twenty one pilots - goner.mp3"
+  "../TwentyOneFans/audio/Blurry/twenty one pilots - heavydirtysoul.mp3",
+  "../TwentyOneFans/audio/Blurry/twenty one pilots - stressed out.mp3",
+  "../TwentyOneFans/audio/Blurry/twenty one pilots - ride.mp3",
+  "../TwentyOneFans/audio/Blurry/twenty one pilots - fairly local.mp3",
+  "../TwentyOneFans/audio/Blurry/twenty one pilots - tear in my heart.mp3",
+  "../TwentyOneFans/audio/Blurry/twenty one pilots - lane boy.mp3",
+  "../TwentyOneFans/audio/Blurry/twenty one pilots - the judge.mp3",
+  "../TwentyOneFans/audio/Blurry/twenty one pilots - doubt.mp3",
+  "../TwentyOneFans/audio/Blurry/twenty one pilots - polarize.mp3",
+  "../TwentyOneFans/audio/Blurry/twenty one pilots - we don't believe what's on tv.mp3",
+  "../TwentyOneFans/audio/Blurry/twenty one pilots - message man.mp3",
+  "../TwentyOneFans/audio/Blurry/twenty one pilots - not today.mp3",
+  "../TwentyOneFans/audio/Blurry/twenty one pilots - goner.mp3"
 ];
 
 trackArtists = ["Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots",];
