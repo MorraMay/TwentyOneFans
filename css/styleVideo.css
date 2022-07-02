@@ -50,7 +50,7 @@ html {
 
 body {
 	font-family: fantasy;
-	background: url(/img/body5df61ce4220956dc8f44d09e8.jpg);
+	background: url(../img/Бэкграунд.jpg);
 	height: 100%;
 	background-size: contain;
 	background-attachment: fixed;
@@ -339,7 +339,7 @@ h1 {
     backdrop-filter: blur(5px);
     width: 43vh;
     height: 53vh;
-	background: url(../img/fairly\ local.jfif)no-repeat -60px 0 / cover;;
+	background: url(../img/КарточкаФэирлиЛокал.jfif)no-repeat -60px 0 / cover;
     background-color: rgba(0, 166, 255, 0.3);
     position: relative;
     transform: scale(1);
@@ -377,45 +377,45 @@ h1 {
   
   .card-1 {
     position: relative;
-    background: url(../img/original.avif)no-repeat -57px 0 / cover;
+    background: url(../img/КарточкаСтрессед.avif)no-repeat -57px 0 / cover;
   }
   
   .card-2 {
-	background: url(../img/twentyonepilots_heathenstyler.jpg)no-repeat -175px 0 / cover;
+	background: url(../img/КарточкаХизенс.jpg)no-repeat -175px 0 / cover;
   }
 
   .card-3 {
  
-    background: url(../img/maxresdefault.jpg) -55px 0px / 200% 100% no-repeat;
+    background: url(../img/КарточкаХэвиДёртиСоул.jpg) -55px 0px / 200% 100% no-repeat;
   }
   .card-4 {
  
-	background: url(../img/jumpsuit766e147f7c9625fafe0774cb040df09a.jpg) 0px -10px / 100% no-repeat;
+	background: url(../img/КарточкаДжампсуит.jpg) 0px -10px / 100% no-repeat;
   }
   .card-5 {
-	background: url(../img/12266.jfif)no-repeat -150px 0 / cover;
+	background: url(../img/КарточкаНикоЭндЗеНайнерс.jfif)no-repeat -150px 0 / cover;
   }
   .card-6 {
-	background: url(../img/levitate.jpg)no-repeat 0 0 / cover;
+	background: url(../img/КарточкаЛэвитэйт.jpg)no-repeat 0 0 / cover;
   }
   .card-7 {
-	background: url(../img/ned_1064_600_s.png)no-repeat -190px 0 / cover;
+	background: url(../img/КарточкаХлорин.png)no-repeat -190px 0 / cover;
   }
   .card-8 {
-	background: url(../img/Twenty-One-Pilots-Shy-Away-Video.jpg)no-repeat -110px 0 / cover;
+	background: url(../img/КарточкаШайЭвэй.jpg)no-repeat -110px 0 / cover;
   }
   .card-9 {
  
-	background: url(../img/twenty_one_pilots_choker_video_screenshot.jpg)no-repeat -130px 0 / cover;
+	background: url(../img/КарточкаЧокер.jpg)no-repeat -130px 0 / cover;
   }
   
   .card-10 {
  
-	background: url(../img/f1638e8b8ad1d12e9d1f6184f73b41ae.jpg) -12px -60px / 115% no-repeat;
+	background: url(../img/КарточкаСатэрдей.jpg) -12px -60px / 115% no-repeat;
 	
   }
   .card-11 {
-	background: url(../img/FOpgfFVUcAE07Vr.jfif)no-repeat -5px -60px /110%;
+	background: url(../img/КарточкаАутсайд.jfif)no-repeat -5px -60px /110%;
 	
   }
   .card-12 {
