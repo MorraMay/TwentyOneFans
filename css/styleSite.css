@@ -35,7 +35,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 body {
 	font-family: fantasy;
-	background: url(../img/body5df61ce4220956dc8f44d09e8.jpg);
+	background: url(../img/Бэкграунд.jpg);
 	height: 100%;
 	background-size: contain;
 	background-attachment: fixed;
@@ -373,7 +373,7 @@ body {
 	width: 100%;
 	height: 100%;
 	min-height: 100vh;
-	background: url(../img/tyler-wetta-saiposter.jpg) 0% 66% / cover  no-repeat fixed;	
+	background: url(../img/Фулскрин1.jpg) 0% 66% / cover  no-repeat fixed;	
 }
 .fullscrin__trench_1 {
 	position: absolute;
@@ -455,7 +455,7 @@ body {
 	
 }	
 .fullscrin__text__body{
-	background: url(../img/tumblr_4dd9b5dcf54e40cb2be5272aaff7ed6e_759a53f4_500.jpg) 0px 0px / 105% no-repeat;
+	background: url(../img/ГлавноеФото1.jpg) 0px 0px / 105% no-repeat;
 	border: 7px solid rgb(243, 243, 243);
 	background-color: rgb(243, 243, 243);
 	position: absolute;
@@ -483,7 +483,7 @@ body {
 	
 }
 .fullscrin__text__body_2{
-	background: url(../img/hero-16553-128306141.jpg) -20px 0px / 115% no-repeat;
+	background: url(../img/ГлавноеФото2.jpg) -20px 0px / 115% no-repeat;
 	border: 7px solid rgb(243, 243, 243);
 	background-color: rgb(243, 243, 243);
 	position: relative;
@@ -747,7 +747,7 @@ body {
 	height: 100%;
 	margin-bottom: 100px;
 	min-height: 100vh;
-	background: url(../img/dejlrdr-42d69c37-4a97-44eb-8616-db4461a43ba2.jpg) 0% 26% / cover  no-repeat fixed;	
+	background: url(../img/Фулскрин2.jpg) 0% 26% / cover  no-repeat fixed;	
 }
 .fullscrin_2__body {
 	margin: 0 auto;
@@ -818,7 +818,7 @@ body {
     background-color: rgba(0, 166, 255, 0.3);
     position: relative;
 	top: 70px;
-	background: url(../img/maxresdefault.jpg) -55px 0px / 200% 100% no-repeat;
+	background: url(../img/КарточкаХэвиДёртиСоул.jpg) -55px 0px / 200% 100% no-repeat;
 	margin-bottom: 245px;
     transform: scale(1);
     border-radius: 5%;
@@ -855,13 +855,12 @@ body {
   
   .card-1 {
 	position: relative;
-	background: url(../img/jumpsuit766e147f7c9625fafe0774cb040df09a.jpg) 0px -10px / 100% no-repeat;
+	background: url(../img/КарточкаДжампсуит.jpg) 0px -10px / 100% no-repeat;
 	background-color: rgba(255, 59, 0, 0.37);
   }
   
   .card-2 {
-	background: url(../img/f1638e8b8ad1d12e9d1f6184f73b41ae.jpg) -12px -60px / 115% no-repeat;
-	
+	background: url(../img/КарточкаСатэрдей.jpg) -12px -60px / 115% no-repeat;
 	background-color: rgba(255, 0, 0, 0.23);
   }
 
@@ -1031,7 +1030,7 @@ body {
 	background-color: red;
 }
 .block__trench {
-	background: url(../img/kj2U0WWgDmXB16bvgiGIsflRBvpKMtiCbRwx1IPda-lsQG-LFfWn7-AgocIRnCU6vnlXhXpX.jpg);
+	background: url(../img/Дема.jpg);
 	background-size: contain;
 	position: relative;
 	top: 180px;
@@ -1086,7 +1085,7 @@ body {
 .block__content-2 {
 	background-color: #48bae7;
 	position: relative;
-	background-image: url(../img/twenty-one-pilots-1.jpg);
+	background-image: url(../img/ЛогоОфициальныйСайт.jpg);
 	background-position: -4px -40px;
 	bottom: 350px;
 	height: 400px;
