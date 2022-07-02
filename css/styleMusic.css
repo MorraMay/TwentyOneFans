@@ -42,7 +42,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 body {
 	font-family: fantasy;
-	background: url(/img/body5df61ce4220956dc8f44d09e8.jpg);
+	background: url(../img/Бэкграунд.jpg);
 	height: 100%;
 	background-size: contain;
 	background-attachment: fixed;
@@ -339,7 +339,7 @@ p {
 }
 
 .picture_1 {
-	background-image: url(/img/bee0bebd9178e5b5ea0e5d9dd6d6c051.png);
+	background-image: url(../img/ФонАльбомаБларри2.png);
     background-size: contain;
 	padding: 250px;
 	background-repeat: no-repeat;
@@ -476,7 +476,7 @@ button:hover{
     transition: transform .6s ease-in-out;
 }
 .picture__blurryface {
-    background-image: url(/img/Blurryface.jpeg);
+    background-image: url(../img/АльбомБларри.jpeg);
     padding: 120px;
     background-repeat: no-repeat;
     background-size: contain;
@@ -500,7 +500,7 @@ button:hover{
     transform: translateY(0);
 }
 .overlay-left {
-    background-image: url(/img/7f6bbe9ef754c4120dd2fda3e3e0125b.png);
+    background-image: url(../img/ФонАльбомБларри.png);
     background-size: 450px 480px;
 	background-repeat: no-repeat;
     transform: translateY(-20%);
@@ -777,7 +777,7 @@ button:hover{
 	font-weight: 100;
 	transition: all 0.5s ease;
 	border-radius: 10px;
-	background: url(../img/JOSHH\ \(1\).jfif)no-repeat 0 0 / cover;
+	background: url(../img/ПлеерДжошБларри.jfif)no-repeat 0 0 / cover;
   }
   .track-lirycs-2 > ul{
 	color: white;
@@ -839,7 +839,7 @@ button:hover{
 	font-weight: 100;
 	transition: all 0.5s ease;
 	border-radius: 10px;
-	background: url(../img/JOSHH\ \(2\).jfif)no-repeat;
+	background: url(../img/ПлеерТайлерБларри.jfif)no-repeat;
 	background-size: 115%;
 	background-position: 100% 40%;
 	
@@ -969,7 +969,7 @@ button:hover{
 	margin: 40px 0 20px 0;
 }
 .picture_2 {
-	background-image: url(/img/5z9ucj51cuo11.jpg);
+	background-image: url(../img/ФонАльбомТренч.jpg);
     background-size: contain;
 	padding: 250px;
 	background-repeat: no-repeat;
@@ -1004,6 +1004,7 @@ button:hover{
 	color: #fff;
 	transition: all 0.3s;
 }
+/*
 .button_2 {
     z-index: 2;
 	background: url(/img/icons8-play-button-circled-96.png);
@@ -1030,6 +1031,7 @@ button:hover{
     transform: scale(.95);
     padding: 15px 25px;
 }
+*/
 .form-container_2 {
     position: absolute;
     top: 0;
@@ -1079,7 +1081,7 @@ button:hover{
     transition: transform .6s ease-in-out;
 }
 .picture__trench {
-    background-image: url(/img/Trench_cover.jpg);
+    background-image: url(../img/ТренчАльбом.jpg);
     padding: 120px;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1106,7 +1108,7 @@ button:hover{
 }
 
 .overlay_2-left {
-    background-image: url(/img/ginger-l-v-a-ginger-ned-pupeteer-poster-small.jpg);
+    background-image: url(../img/ФонАльбомТренч2.jpg);
     background-size: 400px 480px;
 	background-repeat: no-repeat;
     transform: translateY(-20%);
@@ -1214,7 +1216,7 @@ button:hover{
 	transition: all 0.5s ease;
 	border-radius: 10px;
 	box-shadow: 0px 0px 10px #000000;
-	background: url(../img/фон10.jpg)no-repeat -90px 0 / cover;
+	background: url(../img/ПлеерТренчДжош.jpg)no-repeat -90px 0 / cover;
 	
   }
   .track-liry__trench > ul{
@@ -1277,7 +1279,7 @@ button:hover{
 	transition: all 0.5s ease;
 	border-radius: 10px;
 	box-shadow: 0px 0px 10px #000000;
-	background: url(../img/tyler\ trench.jpg)no-repeat 0 0 / cover;
+	background: url(../img/ПлеерТренчТайлер.jpg)no-repeat 0 0 / cover;
 	
   }
   .track-liry__trench-1 > ul{
@@ -1396,7 +1398,7 @@ button:hover{
 	margin: 40px 0 20px 0;
 }
 .picture_3 {
-	background-image: url(/img/Twenty\ One\ Pilots\ Vessel\ –\ Album\ Project_.jfif);
+	background-image: url(../img/ФонАльбомаВессел.jfif);
     background-size: contain;
 	padding: 256px;
 	background-repeat: no-repeat;
@@ -1506,7 +1508,7 @@ button:hover{
     transition: transform .6s ease-in-out;
 }
 .picture__vessel {
-    background-image: url(/img/Vessel1.jpg);
+    background-image: url(../img/АльбомВессел.jpg);
     padding: 120px;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1533,7 +1535,7 @@ button:hover{
 }
 
 .overlay_3-left {
-    background-image: url(/img/Musical\ duo\ Twenty\ One\ Pilots\ comprised\ of\ Josh\ Dun\ and\ Tyler\ Joseph___.jfif);
+    background-image: url(../img/ФонАльбомВессел2.jfif);
     background-size: 390px 530px;
 	background-repeat: no-repeat;
 	background-position: 0% 100%;
@@ -1633,7 +1635,7 @@ button:hover{
 	transition: all 0.5s ease;
 	border-radius: 10px;
 	box-shadow: 0px 0px 10px #000000;
-	background: url(../img/dun\ vessel.jpg)no-repeat 0 0 / cover;
+	background: url(../img/ПлеерВесселДжош.jpg)no-repeat 0 0 / cover;
   }
   .track-lirycs__vessel > ul{
 	color: white;
@@ -1695,7 +1697,7 @@ button:hover{
 	transition: all 0.5s ease;
 	border-radius: 10px;
 	box-shadow: 0px 0px 10px #000000;
-	background: url(../img/vessel\ ty.jpg)no-repeat 0 0 / cover;
+	background: url(../img/ПлеерВесселТайлер.jpg)no-repeat 0 0 / cover;
   }
   .track-lirycs__vessel-1 > ul{
 	color: white;
