@@ -199,20 +199,20 @@ let forwardTrench = document.getElementById("forward10__trench");
 trackIndexTrench = 0;
 
 trackss = [
-  "/audio/Trench/twenty one pilots - Jumpsuit.mp3",
-  "/audio/Trench/twenty one pilots - Levitate.mp3",
-  "/audio/Trench/twenty one pilots - Morph.mp3",
-  "/audio/Trench/twenty one pilots - My Blood.mp3",
-  "/audio/Trench/twenty one pilots - Chlorine.mp3",
-  "/audio/Trench/twenty one pilots - Smithereens.mp3",
-  "/audio/Trench/twenty one pilots - Neon Gravestones.mp3",
-  "/audio/Trench/twenty one pilots - The Hype.mp3",
-  "/audio/Trench/twenty one pilots - Nico And The Niners.mp3",
-  "/audio/Trench/twenty one pilots - Cut My Lip.mp3",
-  "/audio/Trench/twenty one pilots - Bandito.mp3",
-  "/audio/Trench/twenty one pilots - Pet Cheetah.mp3",
-  "/audio/Trench/twenty one pilots - Legend.mp3",
-  "/audio/Trench/twenty one pilots - Leave The City.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - Jumpsuit.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - Levitate.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - Morph.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - My Blood.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - Chlorine.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - Smithereens.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - Neon Gravestones.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - The Hype.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - Nico And The Niners.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - Cut My Lip.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - Bandito.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - Pet Cheetah.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - Legend.mp3",
+  "../TwentyOneFans/audio/Trench/twenty one pilots - Leave The City.mp3",
 ];
 trackArtistss = ["Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots"];
 trackTitless = ["Jumpsuit", "Levitate", "Morph", "My Blood","Chlorine","Smithereens","Neon Gravestones","The Hype","Nico And The Niners","Cut My Lip","Bandito","Pet Cheetah","Legend","Leave The City",];
@@ -348,7 +348,7 @@ tracksv = [
 
   "https://res.cloudinary.com/cbanlawi/video/upload/v1614186705/Loud_Luxury_ft._Brando_-_Body_fm7cdr.mp3"
 ];
-trackArtistsv = ["Harry Styles", "Justin Bieber", "Loud Luxury ft. Brando"];
+trackArtistsv = ["Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots", "Twenty One Pilots"];
 trackTitlesv = ["Watermelon Sugar", "Yummy", "Body"];
 
 

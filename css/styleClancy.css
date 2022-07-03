@@ -301,7 +301,19 @@ body {
 	padding: 0px 15px;
 	flex: 1 1 auto;
 }
-
+h1{
+	position: relative;
+	
+	line-height: 55px;
+	color: #5ceafd;
+	font-size: 50px;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-weight: 300;
+	text-shadow: 0 3px 10px rgb(250, 23, 163);
+	font-family: 'Finger Paint', cursive;
+}
 
 /*ПОДВАЛ*/
 .footer {
