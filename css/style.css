@@ -34,7 +34,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 
 body {
-	font-family: fantasy;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 	background: url(../img/Бэкграунд.jpg);
 	height: 100%;
 	background-size: contain;
