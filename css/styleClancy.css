@@ -303,7 +303,7 @@ body {
 }
 h1{
 	position: relative;
-	
+	top: 100px;
 	line-height: 55px;
 	color: #5ceafd;
 	font-size: 50px;
@@ -313,6 +313,572 @@ h1{
 	font-weight: 300;
 	text-shadow: 0 3px 10px rgb(250, 23, 163);
 	font-family: 'Finger Paint', cursive;
+	margin-bottom: 50px;
+}
+
+h2{
+	position: relative;
+	top: 100px;
+	
+	color: #5ceafd;
+	font-size: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-weight: 300;
+	text-shadow: 0 3px 10px rgb(250, 23, 163);
+	font-family: 'Finger Paint', cursive;
+	margin-bottom: 100px;	
+
+}
+
+
+.title{
+	position: relative;
+	top: 50px;
+	font-size: 35px;
+	font-weight: 700;
+	line-height: 22px;
+	color: #5ceafd;
+	text-align: center;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	letter-spacing: 0.5px;
+	margin-bottom: 60px;	
+	
+}
+.text{
+	position: relative;
+	font-size: 18px;
+	line-height: 22px;
+	color: #5ceafd;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	letter-spacing: 0.5px;
+		
+	text-align: left;
+	
+}
+span{
+	font-style: italic;
+	text-align: center;
+	font-weight: 100;
+
+}
+.img{
+	background: url(../uJy18dc5ywU.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 650px;
+	height: 350px;
+	position: relative;
+	top: 15px;
+}
+.img2{
+	background: url(../P6aWc2YazYs.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 650px;
+	height: 190px;
+	position: relative;
+	top: 15px;
+}
+.img3{
+	background: url(../4oFtEkmvzAI.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 650px;
+	height: 900px;
+	position: relative;
+	top: 15px;
+}
+.block__img-4{
+	display: flex;
+	
+}
+.block__img-4 .text{
+	position: relative;
+	right: 100px;
+}
+.img4{
+	background: url(../u_-g9y42Mbk.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 400px;
+	height: 300px;
+	position: relative;
+	right: 100px;
+	margin-right: 20px;
+	
+}
+.block__img-5{
+	display: flex;	
+}
+.block__img-5 .text{
+	position: relative;
+	right: 65px;
+}
+.img5{
+	background: url(../lfpkU6sWtW4.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 400px;
+	height: 450px;
+	position: relative;
+	left: 20px;
+	margin-bottom: 25px;
+
+}
+.img6{
+	background: url(../9I_NZAUXprI.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 400px;
+	height: 400px;
+	position: relative;
+	top: 15px;
+}
+.img7{
+	background: url(../Нико.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 300px;
+	height: 400px;
+	position: relative;
+	top: 15px;
+}
+.img8{
+	background: url(../Нико2.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 300px;
+	height: 400px;
+	position: relative;
+	top: 15px;
+}
+.img9{
+	background: url(../Дема.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 650px;
+	height: 650px;
+	position: relative;
+	top: 15px;
+}
+.img10{
+	background: url(../Дема2.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 650px;
+	height: 650px;
+	position: relative;
+	top: 15px;
+}
+.img11{
+	background: url(../Дема3.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 550px;
+	height: 550px;
+	position: relative;
+	top: 15px;
+}
+/* Ограничивающая оболочка */
+.slick-list {
+	overflow: hidden;
+}
+/* Лента слайдов */
+.slick-track{
+	display: flex;
+}
+.slider{
+	position: relative;
+	padding: 0px 305px;
+	
+}
+.slider .slick-arrow {
+	position: absolute;
+	top: 38%;
+	margin: 10px 0px 0px 0px;
+	z-index: 10;
+	font-size: 0;
+	width: 30px;
+	height: 60px;
+	transition: all 0.3s ease 0s;
+	border-radius: 50%;
+	padding: 40px;
+}
+.slider .slick-arrow:active{
+	transition: all 0.4s ease 0s;
+	transform:  scale(0.8, 0.8);
+}
+.slider .slick-arrow:hover{
+	
+}
+.slider .slick-arrow.slick-prev {
+	left: 235px;
+	background: url('../img/sl-arrow_l.svg')17px 8px / 45% no-repeat;
+	
+}
+.slider .slick-arrow.slick-prev:hover{
+	background-color: #fa17a3;
+	box-shadow: 0 0 6px#5ceafd;	
+}
+.slider .slick-arrow.slick-next {
+	right: 235px;
+	background: url('../img/sl-arrow_r.svg')26px 8px / 45% no-repeat;
+}
+.slider .slick-arrow.slick-next:hover{
+	background-color: #fa17a3;
+	box-shadow: 0 0 6px#5ceafd;
+}
+.slider__item {
+	padding: 20px;
+	transition: all 0.6s ease 0s;
+}
+
+.slider .slick-dots{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.slider .slick-dots li{
+	list-style: none;
+	margin: 5px 10px;
+}
+/* Элемент точки */
+.slider .slick-dots button{
+	font-size: 0;
+	width: 10px;
+	height: 10px;
+	background-color: white;
+	border-radius: 50%;
+}
+/* Активная точка */
+.slider .slick-dots li.slick-active button{
+	background-color: transparent;
+	border: 1px solid rgb(255, 255, 255);
+	transition: all 0.3s ease 0s;
+}
+
+.img12{
+	background: url(../Дема6.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 400px;
+	height: 400px;
+	position: relative;
+	top: 15px;
+}
+.img13{
+	background: url(../Клэнси.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 750px;
+	height: 550px;
+	position: relative;
+	top: 15px;
+}
+.img14{
+	background: url(../Гепард.gif) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 450px;
+	height: 300px;
+	position: relative;
+	top: 15px;
+}
+.block__img-15{
+	display: flex;	
+	top: 20px;
+	position: relative;
+}
+.block__img-15 .text{
+	position: relative;
+	left: 50px;
+	
+}
+.img15{
+	background: url(../Бандитос.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 650px;
+	height: 400px;
+	position: relative;
+	
+}
+.text a {
+	color: #fa17a3;
+	transition: all 0.3s;
+	text-decoration: underline;
+}
+.text a:hover{
+	color: #fff;
+	transition: all 0.3s;
+}
+.img16{
+	background: url(../Грифон.gif) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 650px;
+	height: 400px;
+	position: relative;
+	top: 10px;
+	
+}
+.img17{
+	background: url(../Клэнси2.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 650px;
+	height: 400px;
+	position: relative;
+
+}
+.img18{
+	background: url(../Клэнси3.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 550px;
+	height: 400px;
+	position: relative;
+	
+	
+}
+.img19{
+	background: url(../Клэнси4.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 550px;
+	height: 400px;
+	position: relative;
+}
+.img20{
+	background: url(../Клэнси5.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 550px;
+	height: 400px;
+	position: relative;
+}
+.img21{
+	background: url(../Клэнси6.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 650px;
+	height: 650px;
+	position: relative;
+}
+.img22{
+	background: url(../Клэнси7.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 650px;
+	height: 650px;
+	position: relative;
+}
+.block__img-23{
+	display: flex;	
+	top: 20px;
+	position: relative;
+}
+.block__img-23 .text{
+	position: relative;
+	right: 65px;
+	
+}
+.img23{
+	background: url(../Факел.gif) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 400px;
+	height: 300px;
+	position: relative;
+	right: 20px;
+}
+.block__img-24{
+	display: flex;	
+	top: 20px;
+	position: relative;
+}
+.block__img-24 .text{
+	position: relative;
+	right: 20px;
+	bottom: 20px;
+	
+}
+.img24{
+	background: url(../Клэнси8.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 450px;
+	height: 300px;
+	position: relative;
+	left: 27px;
+	
+}
+.img25{
+	background: url(../Клэнси9.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 600px;
+	height: 450px;
+	position: relative;
+}
+h3{
+	position: absolute;
+	font-size: 48px;
+	text-align:center;
+	color: #fa17a3;
+	transform: translate(-50%, -50%);
+}
+h3:before{
+	content: attr(data-content);
+	position: absolute;
+	transform: rotateX(180deg);
+	transform-origin: bottom;
+	line-height: 14px;
+	background:linear-gradient (0deg, #fa17a3, transparent 70%);
+	-webkit-background-clip: text;
+	color: transparent;
+}
+
+
+/*ПОДВАЛ*/
+.footer {
+	position: relative;
+	background: linear-gradient(to right, #5ceafd, #fa17a3) no-repeat 0 0 / cover;linear-gradient(to right, #5ceafd, #fa17a3) no-repeat 0 0 / cover;
+	width: 100%;
+	height: 220px;
+	top: 60px;
+	
+}
+.footer__menu {
+	top: 25px;
+	position: relative;
+	max-width: 1120px;
+	margin: 0 auto;
+	padding: 0px 15px;
+	display: flex;
+}
+.footer__list {
+	display: flex;
+}
+.footer__item {
+	list-style: none;
+	
+
+}
+.footer__link {
+	font-size: 20px;
+	color: #001b27;
+	transition: all 0.3s ease 0s;
+	font-family: 'Finger Paint', cursive;
+}
+.footer__item-2 {
+	list-style: none;
+	margin: 0 0 0 80px;
+	position: relative;
+	left: 365px;
+}
+.menu__wikipedia {
+	position: relative;
+	bottom: 285px;
+	max-width: 150px;
+	left: 1073px;
+	
+	
+}
+.footer__logo {
+	position: relative;
+	bottom: 42px;
+	max-width: 85px;
+	left: 775px;
+}
+.footer__facebook{
+	font-size: 25px;
+	color: #fff;
+	margin: 0 15px  15px 0;
+	transition: all 0.5s ease 0s;
+}
+.footer__insta{
+	font-size: 25px;
+	color: #fff;
+	margin: 0 15px  15px 0;
+	transition: all 0.5s ease 0s;
+}
+.footer__tik{
+	font-size: 25px;
+	color: #fff;
+	transition: all 0.5s ease 0s;
+	margin: 0 15px  15px 0;
+}
+.footer__youtube{
+	font-size: 25px;
+	color: #fff;
+	transition: all 0.5s ease 0s;
+	margin: 0 15px  15px 0;
+}
+.footer__spotyfy{
+	font-size: 25px;
+	color: #fff;
+	transition: all 0.5s ease 0s;
+	margin: 0 15px  15px 0;
+}
+.footer__twitter{
+	font-size: 25px;
+	color: #fff;
+	transition: all 0.5s ease 0s;
+	margin: 0 15px  15px 0;
+}
+.footer__facebook:hover{
+	color: #001b27;
+	transition: all 0.5s ease 0s;
+}
+.footer__insta:hover{
+	color: #001b27;
+	transition: all 0.5s ease 0s;
+}
+.footer__tik:hover{
+	color: #001b27;
+	transition: all 0.5s ease 0s;
+}
+.footer__youtube:hover{
+	color: #001b27;
+	transition: all 0.5s ease 0s;
+}
+.footer__spotyfy:hover{
+	color: #001b27;
+	transition: all 0.5s ease 0s;
+}
+.footer__twitter:hover{
+	color: #001b27;
+	transition: all 0.5s ease 0s;
+}
+.menu__menu {
+	position: relative;
+	bottom: 164px;
+	max-width: 100px;
+	left: 935px;
+}
+.menu__list {
+	display: flex;
+	flex-direction: column;
+}
+.menu__list__item {
+	line-height: 20px;
+	text-align: left;
+	
+}
+.menu__list__link {
+	font-size: 14px;
+	font-weight: 700;
+	color: #fff;
+	font-family: 'Finger Paint', cursive;
+	letter-spacing: 1px;
+	transition: all 0.3s ease 0s;
+	
+}
+.menu__list__link:hover{
+	color: #001b27;
+}
+.menu__list__link-2 {
+	font-size: 12px;
+	font-weight: 100;
+	color: #fff;
+	font-family: 'Finger Paint', cursive;
+	letter-spacing: 1px;
+	transition: all 0.3s ease 0s;
+	
+}
+.menu__list__link-2:hover{
+	color: #001b27;
+}
+.footer__info{
+	position: relative;
+	max-width: 300px;
+	left: 115px;
+	top: 60px;
+	font-size: 14px;
+	line-height: 17px;
+	font-family: 'Finger Paint', cursive;
+	transition: all 0.3s ease 0s;
+	font-weight: 600;
+	text-align: left;
+	color: #001b27;
 }
 
 /*ПОДВАЛ*/
