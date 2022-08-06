@@ -49,15 +49,14 @@ html {
 }
 
 body {
-	font-family: fantasy;
+	font-family: 'fantasy';
 	background: url(../img/Бэкграунд.jpg);
 	height: 100%;
 	background-size: contain;
 	background-attachment: fixed;
 	text-align: center;
     align-items: center;
-	min-width: 1170px;
-}
+	min-width: 1250px;
 
 
 .mask{
