@@ -34,7 +34,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 
 body {
-	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-family: fantasy;
 	background: url(../img/Бэкграунд.jpg);
 	height: 100%;
 	background-size: contain;
@@ -42,6 +42,7 @@ body {
 	text-align: center;
     align-items: center;
 }
+/*font-family: 'Yanone Kaffeesatz', sans-serif;*/
 .mask{
 	width: 100%;
 	height: 100%;
@@ -93,7 +94,7 @@ body {
 
 /*ШАПКА*/
 .header__content {
-	max-width: 1120px;
+	max-width: 1140px;
 	margin: 0 auto;
 	padding: 0 15px;
 }
