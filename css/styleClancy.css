@@ -697,23 +697,7 @@ span{
 	height: 450px;
 	position: relative;
 }
-h3{
-	position: absolute;
-	font-size: 48px;
-	text-align:center;
-	color: #fa17a3;
-	transform: translate(-50%, -50%);
-}
-h3:before{
-	content: attr(data-content);
-	position: absolute;
-	transform: rotateX(180deg);
-	transform-origin: bottom;
-	line-height: 14px;
-	background:linear-gradient (0deg, #fa17a3, transparent 70%);
-	-webkit-background-clip: text;
-	color: transparent;
-}
+
 
 
 /*ПОДВАЛ*/
