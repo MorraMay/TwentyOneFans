@@ -179,7 +179,6 @@ body {
 }
 .menu__link:hover {
 	color: white;
-	font-size:  20px;
 	text-shadow: 0 2px 3px #000000;
 	transition: all 0.3s ease 0s;
 

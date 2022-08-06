@@ -169,7 +169,6 @@ body {
 }
 .menu__link:hover {
 	color: white;
-	font-size:  20px;
 	text-shadow: 0 2px 3px #000000;
 	transition: all 0.3s ease 0s;
 
@@ -1009,6 +1008,7 @@ body {
 	border-radius: 50px;
 	box-shadow: 0 3px 5px rgb(0, 0, 0);
 	background-color: #5ceafd;
+	margin: 25px 0;
 	position: relative;
 	max-width: 150px;
     bottom: 1105px;
