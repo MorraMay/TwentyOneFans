@@ -698,6 +698,100 @@ span{
 	position: relative;
 }
 
+.img26{
+	background: url(../img/Clancy/28.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 500px;
+	height: 650px;
+	position: relative;
+}
+
+.img__3{
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	top: 50px;
+}
+
+.img__3 .img27{
+	background: url(../img/Clancy/29.jpg) 0 0 / contain no-repeat;
+	width: 400px;
+	height: 550px;
+	position: absolute;
+	left: 350px;
+}
+.img__3 .img28{
+	background: url(../img/Clancy/30.jpg) 0 0 / contain no-repeat;
+	width: 300px;
+	height: 450px;
+	position: absolute;
+	left: 800px;
+}
+.img__3 .img29{
+	background: url(../img/Clancy/31.jpg) 0 0 / contain no-repeat;
+	width: 300px;
+	height: 450px;
+}
+
+.img30{
+	background: url(../img/Clancy/32.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 400px;
+	height: 1050px;
+	position: relative;
+}
+.img31{
+	background: url(../img/Clancy/33.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 700px;
+	height: 1050px;
+	position: relative;
+}
+.img32{
+	background: url(../img/Clancy/34.gif) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 650px;
+	height: 350px;
+	position: relative;
+}
+.img33{
+	background: url(../img/Clancy/35.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 550px;
+	height: 250px;
+	position: relative;
+}
+.img34{
+	background: url(../img/Clancy/36.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 650px;
+	height: 550px;
+	position: relative;
+}
+.img35{
+	background: url(../img/Clancy/37.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 450px;
+	height: 1750px;
+	position: relative;
+}
+.img36{
+	background: url(../img/Clancy/38.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 500px;
+	height: 750px;
+	position: relative;
+}
+.img37{
+	background: url(../img/Clancy/39.jpg) 0 0 / contain no-repeat;
+	margin: 0 auto;
+	width: 400px;
+	height: 850px;
+	position: relative;
+}
+
+
 
 
 
