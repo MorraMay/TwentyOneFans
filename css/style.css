@@ -839,12 +839,14 @@ body {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	margin-top: 50px;
+
+	position: relative;
+	top: 100px;
 	
 }
 .block__text {
 	position: relative;
-	top: 320px;
+	top: 310px;
 	font-size: 14px;
 	line-height: 22px;
 	color: #5ceafd;
@@ -855,7 +857,7 @@ body {
 }
 .block__title {
 	position: relative;
-	top: 150px;
+	top: 140px;
 	line-height: 55px;
 	color: #5ceafd;
 	font-size: 50px;
@@ -868,7 +870,7 @@ body {
 }
 .block__text-1 {
 	writing-mode:vertical-rl;
-	top: 590px;
+	top: 650px;
 	position: relative;
 	right: 420px;
 	color: rgb(240, 219, 30);
@@ -878,9 +880,9 @@ body {
 }
 .block__text-2 {
 	writing-mode: vertical-rl;
-	top: 500px;
+	top: 560px;
 	position: relative;
-	left: 410px;
+	left: 405px;
 	color: rgb(240, 219, 30);
 	font-size: 32px;
 }
@@ -897,10 +899,9 @@ body {
 	border-radius: 50px;
 	box-shadow: 0 3px 5px rgb(0, 0, 0);
 	background-color: #5ceafd;
-	margin: 25px 0;
 	position: relative;
 	max-width: 150px;
-    bottom: 1105px;
+    bottom: 975px;
 	left: 0;
 	transition-property: all;
 	transition-duration: 0.5s;
@@ -922,20 +923,21 @@ body {
 	background: url(../img/Дема.jpg);
 	background-size: contain;
 	position: relative;
-	top: 190px;
+	top: 240px;
 	background-repeat: no-repeat;
 	padding: 330px;
 	transition: all 0.8s ease 0s;
 	
+	
 }
 .fullscrin__trench{
 	position: relative;
-	bottom: 425px;
+	bottom: 370px;
 }
-.fullscrin__trench-1 {
+.fullscrin__trench-2{
 	position: relative;
-	bottom: 130px;
-	right: 295px;
+	bottom: 360px;
+	left: 290px;
 	z-index: 2;
 	animation: swing 2s infinite alternate cubic-bezier(0.455, 0.03, 0.515, 0.955);
 	background: url(../img/12\ \(1\).png)0% 0% / cover no-repeat;
