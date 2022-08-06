@@ -8,11 +8,3 @@ container.classList.add('right-panel-active'));
 signInButton.addEventListener('click', () =>
 container.classList.remove('right-panel-active'));
 
-let mask = document.querySelector('.mask');
-
-window.addEventListener('load', () => {
-mask.classList.add('hide');
-setTimeout(() => {
-  mask.remove();
-}, 600);
-})

@@ -89,14 +89,4 @@ $(".card").css({"box-shadow": "0px 0px 3px rgba(0, 0, 0, 0.051), 0px 0px 7.2px r
 $(".glare").css("left", "100%");
 });
 
-let mask = document.querySelector('.mask');
-
-window.addEventListener('load', () => {
-mask.classList.add('hide');
-setTimeout(() => {
-  mask.remove();
-}, 600);
-})
-
-
 
