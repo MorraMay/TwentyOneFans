@@ -1,3 +1,25 @@
+let mask = document.querySelector('.mask');
+
+window.addEventListener('load', () => {
+mask.classList.add('hide');
+setTimeout(() => {
+  mask.remove();
+}, 600);
+})
+
+
+  $('.to__clips').click(function() {
+    var target = $('.card-11');
+    if (target.length) {
+        $('html,body').animate({
+            scrollTop: target.offset().top
+        }, 1000);
+        return false;
+    }
+  });
+  
+  
+
 
 class parallaxTiltEffect {
 
