@@ -944,10 +944,10 @@ body {
 	position: relative;
 	bottom: 370px;
 }
-.fullscrin__trench-2{
+.fullscrin__trench-1 {
 	position: relative;
-	bottom: 360px;
-	left: 290px;
+	bottom: 130px;
+	right: 295px;
 	z-index: 2;
 	animation: swing 2s infinite alternate cubic-bezier(0.455, 0.03, 0.515, 0.955);
 	background: url(../img/12\ \(1\).png)0% 0% / cover no-repeat;
@@ -988,7 +988,7 @@ body {
 	position: relative;
 	background-image: url(../img/ЛогоОфициальныйСайт.jpg);
 	background-position: -4px -40px;
-	bottom: 350px;
+	bottom: 150px;
 	height: 400px;
 	max-width: 900px;
 	margin: 0 auto;
