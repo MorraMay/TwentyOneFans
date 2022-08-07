@@ -195,7 +195,7 @@ body {
 .wrapper.active .fullscrin__title {
 	opacity: 1;
 	transition: all 1.7s ease 0.2s;
-	top: 85px;
+	top: 95px;
 }
 .wrapper.active .fullscrin__text__body{
 	opacity: 1;
@@ -834,7 +834,7 @@ body {
 }
 .block__text-1 {
 	writing-mode:vertical-rl;
-	top: 640px;
+	top: 655px;
 	position: relative;
 	right: 420px;
 	color: rgb(240, 219, 30);
