@@ -431,7 +431,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	
+	z-index: 3;
 }	
 .arrow{
 	background: url(../img/sl-arrow_l.svg)20px 10px / 50% no-repeat;
@@ -446,8 +446,6 @@ body {
 }
 .arrow:hover{
 	background: url(../img/sl-arrow_l.svg)20px 15px / 40% no-repeat;
-	;
-
 }
 
 
