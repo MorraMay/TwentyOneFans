@@ -41,7 +41,7 @@ body {
 	background-attachment: fixed;
 	text-align: center;
     align-items: center;
-	min-width: 1350px;
+	min-width: 1300px;
 }
 
 
@@ -59,7 +59,7 @@ body {
 
 /*ШАПКА*/
 .header__content {
-	max-width: 1270px;
+	max-width: 1140px;
 	margin: 0 auto;
 	padding: 0 15px;
 }
@@ -85,11 +85,11 @@ body {
 	position: relative;
 	display: flex;
 	justify-content: space-between;
-	height: 60px;
+	height: 70px;
 	align-items: center;
 }
 .header__logo {
-	flex: 0 0 50px;
+	flex: 0 0 60px;
 	border-radius: 50%;
 	overflow: hidden;
 	position: relative;
@@ -97,7 +97,7 @@ body {
 	transition: all 0.3s ease 0.2s;
 }
 .header__logo:hover{
-	flex: 0 0 53px;
+	flex: 0 0 63px;
 	transition: all 0.2s ease 0s;
 	box-shadow: 0px 0px 7px #fa17a3;
 	animation: swing 0.2s infinite alternate cubic-bezier(0.455, 0.03, 0.515, 0.955);
@@ -125,7 +125,7 @@ body {
 .menu__link {
 	color: #001b27;
 	text-transform: uppercase;
-	font-size: 18px;
+	font-size: 21px;
 	letter-spacing: 2px;
 	transition: all 0.3s ease 0s;
 	
@@ -306,14 +306,14 @@ body {
 	top: -1000px;
 	line-height: 55px;
 	color: #5ceafd;
-	font-size: 60px;
+	font-size: 63px;
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	font-weight: 300;
+	font-weight: 400;
 	text-shadow: 0 3px 10px rgb(250, 23, 163);
 	opacity: 0;
-	font-family: fantasy;
+	font-family: 'Finger Paint';
 	
 }	
 .fullscrin__text__body{
@@ -538,12 +538,12 @@ body {
 	top: 65px;
 	line-height: 55px;
 	color: #5ceafd;
-	font-size: 50px;
-	font-family: fantasy;
+	font-size: 65px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 	text-align: center;
 	text-transform: uppercase;
-	letter-spacing: 3px;
-	font-weight: 300;
+	letter-spacing: 5px;
+	font-weight: 600;
 	text-shadow: 0 3px 10px rgb(250, 23, 163);
 }
 .content__text {
@@ -557,21 +557,21 @@ body {
 	letter-spacing: 0.5px;
 }
 .buttons  {
-	font-family: fantasy;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
     background: transparent;
     color: #001b27;
-	font-size: 15px;
+	font-size: 25px;
 	text-transform: uppercase;
-	letter-spacing: 2px;
+	letter-spacing: 3px;
 	padding: 10px 40px 10px 40px;
 	text-align: left;
-	font-weight: 200;
+	font-weight: 900;
 	border-radius: 50px;
 	box-shadow: 0 3px 5px rgb(0, 0, 0);
 	background-color: #5ceafd;
 	position: relative;
 	max-width: 150px;
-    top: 140px;
+    top: 150px;
 	left: 0;
 	transition-property: all;
 	transition-duration: 0.5s;
@@ -627,12 +627,12 @@ body {
 	top: 35px;
 	line-height: 55px;
 	color: #5ceafd;
-	font-size: 50px;
-	font-family: fantasy;
+	font-size: 65px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 	text-align: center;
 	text-transform: uppercase;
-	letter-spacing: 3px;
-	font-weight: 300;
+	letter-spacing: 5px;
+	font-weight: 600;
 	text-shadow: 0 3px 10px rgb(250, 23, 163);
 	
 }
@@ -670,7 +670,7 @@ body {
     background-color: rgba(0, 166, 255, 0.3);
     position: relative;
 	top: 70px;
-	background: url(../img/maxresdefault.jpg) -55px 0px / 200% 100% no-repeat;
+	background: url(../img/КарточкаХэвиДёртиСоул.jpg) -55px 0px / 200% 100% no-repeat;
 	margin-bottom: 245px;
 
     transform: scale(1);
@@ -759,15 +759,15 @@ body {
 	font-weight: 800;
 }
 .video__buttons {
-	font-family: 'fantasy';
+	font-family: 'Yanone Kaffeesatz', sans-serif;
     background: transparent;
     color: #001b27;
-	font-size: 15px;
+	font-size: 25px;
 	text-transform: uppercase;
-	letter-spacing: 2px;
+	letter-spacing: 3px;
 	padding: 10px 40px 10px 40px;
 	text-align: left;
-	font-weight: 200;
+	font-weight: 900;
 	border-radius: 50px;
 	box-shadow: 0 3px 5px rgb(0, 0, 0);
 	background-color: #5ceafd;
@@ -834,12 +834,14 @@ body {
 }
 .block__text-1 {
 	writing-mode:vertical-rl;
-	top: 650px;
+	top: 640px;
 	position: relative;
 	right: 420px;
 	color: rgb(240, 219, 30);
 	transform: rotate(-180deg);
-	font-size: 32px;
+	font-size: 36px;
+	font-family: 'Finger Paint';
+	
 	
 }
 .block__text-2 {
@@ -848,13 +850,15 @@ body {
 	position: relative;
 	left: 405px;
 	color: rgb(240, 219, 30);
-	font-size: 32px;
+	font-size: 36px;
+	font-family: 'Finger Paint';
+	
 }
 .block__button {
 	font-family: 'Bangers';
     background: transparent;
     color: #001b27;
-	font-size: 15px;
+	font-size: 24px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	padding: 10px 40px 10px 40px;
@@ -1028,27 +1032,31 @@ body {
 	font-size: 20px;
 	color: #001b27;
 	transition: all 0.3s ease 0s;
-	font-family: 'Finger Paint', cursive;
+	font-size: 28px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .footer__item-2 {
 	list-style: none;
-	margin: 0 0 0 80px;
+	margin: 0 0 0 90px;
 	position: relative;
-	left: 380px;
+	left: 415px;
+	font-size: 30px;
+	
 }
 .menu__wikipedia {
 	position: relative;
-	bottom: 265px;
+	bottom: 305px;
 	max-width: 150px;
 	left: 1073px;
+	
 	
 	
 }
 .footer__logo {
 	position: relative;
-	bottom: 20px;
+	bottom: 40px;
 	max-width: 85px;
-	left: 775px;
+	left: 772px;
 }
 .footer__facebook{
 	font-size: 25px;
@@ -1112,25 +1120,26 @@ body {
 }
 .menu__menu {
 	position: relative;
-	bottom: 145px;
+	bottom: 175px;
 	max-width: 100px;
 	left: 935px;
+	
 }
 .menu__list {
 	display: flex;
 	flex-direction: column;
 }
 .menu__list__item {
-	line-height: 20px;
+	line-height: 22px;
 	text-align: left;
 	
 }
 .menu__list__link {
-	font-size: 14px;
-	font-weight: 700;
+	font-size: 20px;
+	font-weight: 400;
 	color: #fff;
-	font-family: 'Finger Paint', cursive;
-	letter-spacing: 1px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	letter-spacing: 2px;
 	transition: all 0.3s ease 0s;
 	
 }
@@ -1138,7 +1147,7 @@ body {
 	color: #001b27;
 }
 .menu__list__link-2 {
-	font-size: 12px;
+	font-size: 14px;
 	font-weight: 100;
 	color: #fff;
 	font-family: 'Finger Paint', cursive;
@@ -1154,9 +1163,10 @@ body {
 	max-width: 300px;
 	left: 115px;
 	top: 70px;
-	font-size: 14px;
-	line-height: 17px;
-	font-family: 'Finger Paint', cursive;
+	letter-spacing: 1px;
+	font-size: 22px;
+	line-height: 20px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 	transition: all 0.3s ease 0s;
 	font-weight: 600;
 	text-align: left;
