@@ -213,23 +213,25 @@ p {
 }
 
 .text {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 	margin: 0 auto;
 	padding: 0px 15px;
 	z-index: 10;
-    letter-spacing: .5px;
-	font-family: fantasy;
+    letter-spacing: 1px;
 	color: rgb(255, 255, 255);
     padding: 20px 5px 30px 20px;
-	font-size: 14px;
+	font-size: 19px;
     font-weight: 100;
     line-height: 23px;
 	text-align: left;
+	
 	
 }
 .blurryface__popup {
 	color: red;
 	text-decoration: underline;
-	font-size: 17px;
+	font-size: 23px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 	transition: all 0.3s;
 }
 .blurryface__popup:hover{
@@ -274,10 +276,10 @@ button:focus {
 }
 
 button.ghost {
-    font-family: 'Bangers';
+	font-family: 'Bangers';
     background: transparent;
     color: #001b27;
-	font-size: 15px;
+	font-size: 19px;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	padding: 10px 40px 10px 40px;
@@ -467,10 +469,10 @@ button:hover{
 	transform: scale(110%);
 }
 .popup__text {
-	font-size: 14px;
+	font-size: 24px;
     font-weight: 100;
-    letter-spacing: .5px;
-	font-family: fantasy;
+    letter-spacing: 1px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 	color: #001b27;
     line-height: 23px;	
 	text-align: left;
