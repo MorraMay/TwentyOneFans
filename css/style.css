@@ -345,7 +345,7 @@ body {
 	
 }
 .fullscrin__text__body_2{
-	background: url(../img/ГлавноеФото2.jpg) -20px 0px / 115% no-repeat;
+	background: url(../img/ГлавноеФото2а.jpg) -20px 0px / 115% no-repeat;
 	border: 7px solid rgb(243, 243, 243);
 	background-color: rgb(243, 243, 243);
 	position: relative;
@@ -834,7 +834,7 @@ body {
 }
 .block__text-1 {
 	writing-mode:vertical-rl;
-	top: 680px;
+	top: 690px;
 	position: relative;
 	right: 420px;
 	color: rgb(240, 219, 30);
