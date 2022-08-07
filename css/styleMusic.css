@@ -215,7 +215,6 @@ p {
 .text {
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	margin: 0 auto;
-	padding: 0px 15px;
 	z-index: 10;
     letter-spacing: 1px;
 	color: rgb(255, 255, 255);
@@ -844,15 +843,14 @@ button:hover{
 }
 .text_2 {
 	z-index: 10;
-    letter-spacing: .5px;
-	font-family: fantasy;
+	letter-spacing: 1px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 	color: rgb(14, 14, 14);
     padding: 20px 5px 30px 20px;
-	font-size: 13.5px;
+	font-size: 18px;
     font-weight: 100;
     line-height: 23px;
 	text-align: left;
-	padding: 0px 15px;
 	margin: 0 auto;
 	position: relative;
 	top: 20px;
@@ -861,7 +859,8 @@ button:hover{
 .trench__popup {
 	color: red;
 	text-decoration: underline;
-	font-size: 17px;
+	font-size: 23px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 	transition: all 0.3s;
 }
 .trench__popup:hover{
@@ -1273,24 +1272,23 @@ button:hover{
 }
 .text_3 {
 	z-index: 10;
-    letter-spacing: .5px;
-	font-family: fantasy;
+	letter-spacing: 1px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 	color: rgb(14, 14, 14);
     padding: 20px 5px 30px 20px;
-	font-size: 13.5px;
+	font-size: 18.5px;
     font-weight: 100;
     line-height: 23px;
 	text-align: left;
-	padding: 0px 15px;
 	margin: 0 auto;
 	position: relative;
-	top: 20px;
 	
 }
 .vessel__popup {
 	color: red;
 	text-decoration: underline;
-	font-size: 17px;
+	font-size: 23px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 	transition: all 0.3s;
 }
 .vessel__popup:hover{
