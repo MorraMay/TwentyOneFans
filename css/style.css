@@ -1005,12 +1005,14 @@ body {
 	background: linear-gradient(to right, #5ceafd, #fa17a3) no-repeat 0 0 / cover;linear-gradient(to right, #5ceafd, #fa17a3) no-repeat 0 0 / cover;
 	width: 100%;
 	height: 220px;
+	
+	
 }
 .footer__menu {
 	top: 25px;
-	position: relative;
+	position: absolute;
 	max-width: 1120px;
-	margin: 0 auto;
+	margin: 0 100px;
 	padding: 0px 15px;
 	display: flex;
 }
@@ -1036,7 +1038,7 @@ body {
 }
 .menu__wikipedia {
 	position: relative;
-	bottom: 285px;
+	bottom: 265px;
 	max-width: 150px;
 	left: 1073px;
 	
@@ -1044,7 +1046,7 @@ body {
 }
 .footer__logo {
 	position: relative;
-	bottom: 42px;
+	bottom: 20px;
 	max-width: 85px;
 	left: 775px;
 }
@@ -1110,7 +1112,7 @@ body {
 }
 .menu__menu {
 	position: relative;
-	bottom: 164px;
+	bottom: 145px;
 	max-width: 100px;
 	left: 935px;
 }
@@ -1151,7 +1153,7 @@ body {
 	position: relative;
 	max-width: 300px;
 	left: 115px;
-	top: 60px;
+	top: 70px;
 	font-size: 14px;
 	line-height: 17px;
 	font-family: 'Finger Paint', cursive;
