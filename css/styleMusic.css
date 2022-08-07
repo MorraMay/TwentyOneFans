@@ -204,7 +204,7 @@ p {
 }
 
 .picture_1 {
-	background-image: url(../img/ФонАльбомаБларри2.png);
+	background-image: url(../img/ФонАльбомаБларри2.jpg);
     background-size: contain;
 	padding: 250px;
 	background-repeat: no-repeat;
@@ -342,7 +342,7 @@ button:hover{
     transition: transform .6s ease-in-out;
 }
 .picture__blurryface {
-    background-image: url(../img/АльбомБларри.jpeg);
+    background-image: url(../img/АльбомБларри.jpg);
     padding: 120px;
     background-repeat: no-repeat;
     background-size: contain;
@@ -366,7 +366,7 @@ button:hover{
     transform: translateY(0);
 }
 .overlay-left {
-    background-image: url(../img/ФонАльбомБларри.png);
+    background-image: url(../img/ФонАльбомБларри.jpg);
     background-size: 450px 480px;
 	background-repeat: no-repeat;
     transform: translateY(-20%);
@@ -643,7 +643,7 @@ button:hover{
 	font-weight: 100;
 	transition: all 0.5s ease;
 	border-radius: 10px;
-	background: url(../img/ПлеерДжошБларри.jfif)no-repeat 0 0 / cover;
+	background: url(../img/ПлеерДжошБларри.jpg)no-repeat 0 0 / cover;
   }
   .track-lirycs-2 > ul{
 	color: white;
@@ -705,7 +705,7 @@ button:hover{
 	font-weight: 100;
 	transition: all 0.5s ease;
 	border-radius: 10px;
-	background: url(../img/ПлеерТайлерБларри.jfif)no-repeat;
+	background: url(../img/ПлеерТайлерБларри.jpg)no-repeat;
 	background-size: 115%;
 	background-position: 100% 40%;
 	
@@ -1263,7 +1263,7 @@ button:hover{
 	margin-bottom: 150px;
 }
 .picture_3 {
-	background-image: url(../img/ФонАльбомаВессел.jfif);
+	background-image: url(../img/ФонАльбомаВессел.jpg);
     background-size: contain;
 	padding: 256px;
 	background-repeat: no-repeat;
@@ -1399,7 +1399,7 @@ button:hover{
 }
 
 .overlay_3-left {
-    background-image: url(../img/ФонАльбомВессел2.jfif);
+    background-image: url(../img/ФонАльбомВессел2.jpg);
     background-size: 390px 530px;
 	background-repeat: no-repeat;
 	background-position: 0% 100%;
